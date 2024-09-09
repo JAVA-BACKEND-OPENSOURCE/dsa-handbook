@@ -1,7 +1,3 @@
-Here's a revised version of your project description with icons and a more visual approach:
-
----
-
 ## 📚 DATA STRUCTURES & ALGORITHMS WITH PHUQUOCCHAMP
 
 Welcome to the **Data Structures & Algorithms (DSA)** repository! This project is designed to explore and implement a wide range of fundamental data structures and algorithms, essential components in the world of computer science. The aim is to provide clear, efficient implementations paired with detailed explanations to help you master core concepts and their practical applications.
