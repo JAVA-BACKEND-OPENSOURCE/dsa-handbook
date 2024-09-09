@@ -32,8 +32,8 @@ Welcome to the **Data Structures & Algorithms (DSA)** repository! This project i
 - **LeetCode**: Problem-solving and optimization techniques.
 - **DSA**:
   - **Linked List**:
-    - Singly Linked List
-    - Doubly Linked List
+    - [Singly Linked List](./linkedlist/singlylinkedlist)
+    - [Doubly Linked List](./linkedlist/doublylinkedlist)
     - Circular Doubly Linked List
 
 ---
